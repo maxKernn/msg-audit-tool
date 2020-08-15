@@ -45,7 +45,7 @@ To set it up locally for development do the following:
 3. Clone this repository.
 4. Run `npm i` inside /ng-frontend to install all dependencies.
 5. To serve and open the application, run `ng s -o`. The application will open under [http://localhost:4200](http://localhost:4200).
-
+g
 We use VS Code for development. To apply our coding guidelines use the following plugins:
 
 - Prettier - Code Formatter (enable it as the default formatter)
